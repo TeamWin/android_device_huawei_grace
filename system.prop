@@ -17,6 +17,8 @@ ro.build.user=jenkins
 ro.build.host=wuhcitculx00327
 ro.build.flavor=GRACE-user
 ro.product.model=GRACE
+ro.product.name=GRACE
+ro.product.device=HWGRA
 # ro.product.cpu.abi and ro.product.cpu.abi2 are obsolete,
 # use ro.product.cpu.abilist instead.
 ro.product.cpu.abi=arm64-v8a
